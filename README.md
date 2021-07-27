@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nicolejlaurin
 - 👀 I’m interested in software development, working out and travelling
 - 🌱 I’m currently learning machine learning
-- 📫 How to reach me anything !! :) 
 
 <!---
 nicolejlaurin/nicolejlaurin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
